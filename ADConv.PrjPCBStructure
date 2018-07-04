@@ -1,0 +1,5 @@
+Record=SheetSymbol|SourceDocument=Main.SchDoc|Designator=U_DiffInput|SchDesignator=U_DiffInput|FileName=DiffInput.SchDoc|SymbolType=Normal|RawFileName=DiffInput.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TopLvl.SchDoc|Designator=U_Main|SchDesignator=U_Main|FileName=Main.SchDoc|SymbolType=Normal|RawFileName=Main.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TopLvl.SchDoc|Designator=U_Power|SchDesignator=U_Power|FileName=Power.SchDoc|SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TopLvl.SchDoc|Designator=U_USB|SchDesignator=U_USB|FileName=USB.SchDoc|SymbolType=Normal|RawFileName=USB.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=TopLvl.SchDoc
